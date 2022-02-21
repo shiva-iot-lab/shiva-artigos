@@ -80,7 +80,8 @@ O mercado global de Internet das Coisas (IoT) terá a receita de US$ 1,1 trilhã
 
 ## Investimento Nacional
 
-* Plano Nacional de IoT> Apesar da expansão das redes de internet de banda larga e dos dispositivos inteligentes, o ecossistema da internet das coisas (IoT) no Brasil ainda enfrenta alguns desafios. Segundo os especialistas da área, falta mais estímulo, mais monitoramento, mais inovação e menos regulamentação para o mercado de IoT avançar no país. Por isso, está em vigor desde junho de 2019 o Plano Nacional de Internet das Coisas (Decreto n°9854), que visa fomentar essa tecnologia no Brasil e melhorar a qualidade de vida e aumentar a eficiência na prestação de serviços.
+* Plano Nacional de IoT
+> Apesar da expansão das redes de internet de banda larga e dos dispositivos inteligentes, o ecossistema da internet das coisas (IoT) no Brasil ainda enfrenta alguns desafios. Segundo os especialistas da área, falta mais estímulo, mais monitoramento, mais inovação e menos regulamentação para o mercado de IoT avançar no país. Por isso, está em vigor desde junho de 2019 o Plano Nacional de Internet das Coisas (Decreto n°9854), que visa fomentar essa tecnologia no Brasil e melhorar a qualidade de vida e aumentar a eficiência na prestação de serviços.
 
 # Links Úteis
 
