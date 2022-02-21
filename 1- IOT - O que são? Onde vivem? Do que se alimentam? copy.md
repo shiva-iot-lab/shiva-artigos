@@ -25,8 +25,6 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 
 ![Smart Fechadura](img/smart-fechadura.jpeg?raw=true "Smart Fechadura")
 
-> ***
->
 > ## Funcionalidades: 
 > * Abrir e fechar porta.
 > * Receber comandos para abrir ou fechar a porta em um determinado horário.
@@ -39,8 +37,7 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 
 ![Smart Interruptor](img/smart-interruptor.jpeg?raw=true "Smart Interruptor")
 
-> ***
->
+
 > ## Funcionalidades: 
 > * Ligar ou desligar aparelhos 110v ou 220v.
 > * Ligar ou desligar a partir de horários agendados.
@@ -51,8 +48,6 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 
 ![Smart Lampada](img/smart-lampada.jpeg?raw=true "Smart Lampada")
 
-> ***
->
 > ## Funcionalidades: 
 > * Ligar ou desligar a luz 110v ou 220v.
 > * Ligar ou desligar a partir de horários agendados.
@@ -67,9 +62,6 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 
 ![Smart Rele](img/smart-rele.jpeg?raw=true "Smart Rele")
 
-
-> ***
->
 > ## Funcionalidades: 
 > * Ligar ou desligar aparelhos 110v ou 220v.
 > * Ligar ou desligar a partir de horários agendados.
@@ -81,8 +73,6 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 
 ![Smart Fechadura](img/smart-tomada.jpeg?raw=true "Smart Fechadura")
 
-> ***
->
 > ## Funcionalidades: 
 > * Ligar ou desligar aparelhos 110v ou 220v.
 > * Ligar ou desligar a partir de horários agendados.
@@ -94,8 +84,6 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 
 ![Smart Fechadura](img/zemismart.jpeg?raw=true "Smart Fechadura")
 
-> ***
->
 > ## Funcionalidades: 
 > * Abrir ou Fechar persianas.
 > * Ligar ou desligar a partir de horários agendados.
