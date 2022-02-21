@@ -1,5 +1,5 @@
 # IOT - O que são? Onde vivem? Do que se alimentam?
-Objetivo: Dar uma introdução ao leitor sobre o que é IOT, o tamanho do mercado, pra que serve.
+Objetivo: Dar uma introdução ao leitor sobre o que é IOT, o tamanho do mercado e que serve.
 
 ## O que são?
 
@@ -28,7 +28,9 @@ Segue alguns exemplos de dispositivos que provavelmente você sentirá a necessi
 
 ![Smart Interruptor](img/smart-interruptor.jpeg?raw=true "Smart Interruptor")
 
-> ## Funcionalidades: > * Ligar ou desligar aparelhos 110v ou 220v.> * Ligar ou desligar a partir de horários agendados.
+> ## Funcionalidades: 
+> * Ligar ou desligar aparelhos 110v ou 220v.
+> * Ligar ou desligar a partir de horários agendados.
 
 - ## Smart Lâmpada
 
