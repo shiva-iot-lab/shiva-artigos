@@ -28,16 +28,23 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 
 - Smart Interruptor
 
+![Smart Fechadura](img/smart-interruptor.jpeg?raw=true "Smart Fechadura")
 
 - Smart Lampada
 
+![Smart Fechadura](img/smart-lampada.jpeg?raw=true "Smart Fechadura")
 
 - Smart Rele
 
+![Smart Fechadura](img/smart-rele.jpeg?raw=true "Smart Fechadura")
+
+- Smart Tomada
+
+![Smart Fechadura](img/smart-tomada.jpeg?raw=true "Smart Fechadura")
 
 - Zemismart
 
-
+![Smart Fechadura](img/zemismart.jpeg?raw=true "Smart Fechadura")
 
 
 ## Crescimento
