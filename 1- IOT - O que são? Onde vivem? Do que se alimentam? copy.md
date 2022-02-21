@@ -1,5 +1,5 @@
 # IOT - O que são? Onde vivem? Do que se alimentam?
-Objetivo: Dar uma introdução ao leitor sobre o que é IOT, o tamanho do mercado, pra que server. Explicar de forma prática como implementar um projeto de jardim inteligente por exemplo.
+Objetivo: Dar uma introdução ao leitor sobre o que é IOT, o tamanho do mercado, pra que serve.
 
 ## O que são?
 
@@ -18,7 +18,11 @@ Segue alguns exemplos de dispositivos que provavelmente você sentirá a necessi
 
 ![Smart Fechadura](img/smart-fechadura.jpeg?raw=true "Smart Fechadura")
 
-> ## Funcionalidades: > * Abrir e fechar porta.> * Receber comandos para abrir ou fechar a porta em um determinado horário.> > OBS: Esse produto em específico, na maioria das vezes dependerá de uma fonte de energia baseada em baterias a fim de não perder a sua funcionalidade por queda de energia.
+> ## Funcionalidades: 
+> * Abrir e fechar porta.
+> * Receber comandos para abrir ou fechar a porta em um determinado horário.
+> 
+> OBS: Esse produto em específico, na maioria das vezes dependerá de uma fonte de energia baseada em baterias a fim de não perder a sua funcionalidade por queda de energia.
 
 - ## Smart Interruptor
 
@@ -30,25 +34,37 @@ Segue alguns exemplos de dispositivos que provavelmente você sentirá a necessi
 
 ![Smart Lampada](img/smart-lampada.jpeg?raw=true "Smart Lampada")
 
-> ## Funcionalidades: > * Ligar ou desligar a luz 110v ou 220v.> * Ligar ou desligar a partir de horários agendados.> * Alguns modelos você pode mudar a cor da luz>> OBS: Apesar de ser um produto mais em conta, sempre temos que levar em conta a durabilidade, até a melhor lâmpada, um dia queima, caso isso aconteça, você terá o custo de trocar esse componente e refazer a configuração do mesmo.
+> ## Funcionalidades: 
+> * Ligar ou desligar a luz 110v ou 220v.
+> * Ligar ou desligar a partir de horários agendados.> * Alguns modelos você pode mudar a cor da luz
+>
+> OBS: Apesar de ser um produto mais em conta, sempre temos que levar em conta a durabilidade, até a melhor lâmpada, um dia queima, caso isso aconteça, você terá o custo de trocar esse componente e refazer a configuração do mesmo.
 
 
 - ## Smart Rele
 
 ![Smart Rele](img/smart-rele.jpeg?raw=true "Smart Rele")
 
-> ## Funcionalidades: > * Ligar ou desligar aparelhos 110v ou 220v.> * Ligar ou desligar a partir de horários agendados.> > OBS: Diria que esse é o dispositivo IOT mais básico e simples possível e que tem o melhor custo e benefício. Pois com ele você vai poder implementar praticamente todos os elementos necessários referente a automação e com um baixo custo.
+> ## Funcionalidades: 
+> * Ligar ou desligar aparelhos 110v ou 220v.
+> * Ligar ou desligar a partir de horários agendados.
+> 
+> OBS: Diria que esse é o dispositivo IOT mais básico e simples possível e que tem o melhor custo e benefício. Pois com ele você vai poder implementar praticamente todos os elementos necessários referente a automação e com um baixo custo.
 
 - ## Smart Tomada
 
 ![Smart Fechadura](img/smart-tomada.jpeg?raw=true "Smart Fechadura")
-> ## Funcionalidades: > * Ligar ou desligar aparelhos 110v ou 220v.> * Ligar ou desligar a partir de horários agendados.
+> ## Funcionalidades: 
+> * Ligar ou desligar aparelhos 110v ou 220v.
+> * Ligar ou desligar a partir de horários agendados.
 
 - ## Zemismart
 
 ![Smart Fechadura](img/zemismart.jpeg?raw=true "Smart Fechadura")
 
-> ## Funcionalidades: > * Abrir ou Fechar persianas.> * Ligar ou desligar a partir de horários agendados.
+> ## Funcionalidades: 
+> * Abrir ou Fechar persianas.
+> * Ligar ou desligar a partir de horários agendados.
 
 # Crescimento
 
