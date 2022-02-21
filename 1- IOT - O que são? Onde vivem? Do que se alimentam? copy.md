@@ -30,8 +30,7 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 > * Receber comandos para abrir ou fechar a porta em um determinado horário.
 > 
 > OBS: Esse produto em especifico, na maioria das vezes dependerá de uma fonte de energia baseado em baterias afim de não perder a sua funcionalidade por queda de energia.
->
-> ***
+
 
 - ## Smart Interruptor
 
@@ -41,8 +40,7 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 > ## Funcionalidades: 
 > * Ligar ou desligar aparelhos 110v ou 220v.
 > * Ligar ou desligar a partir de horários agendados.
-> 
-> ***
+
 
 - ## Smart Lampada
 
@@ -54,8 +52,7 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 > * Alguns modelos você pode mudar a cor da luz
 >
 >  OBS: Apesar de ser um oproduto mais em conta, sempre temos que levar em conta a durabilidade, até a melhor lampada, um dia queima, caso isso aconteça, você terá o custo de trocar esse componente e refazar a configuração do mesmo
->
-> ***
+
 
 
 - ## Smart Rele
@@ -67,7 +64,6 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 > * Ligar ou desligar a partir de horários agendados.
 > 
 > OBS: Diria que esse é o dispositivo IOT mais básico e simples possivel e que tem o melhor custo e beneficio. Pois com ele você vai poder implementar praticamente todos os elementos necessários referente a automação e com um baixo custo.
-> ***
 
 - ## Smart Tomada
 
@@ -78,7 +74,7 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 > * Ligar ou desligar a partir de horários agendados.
 > 
 > OBS: Diria que esse é o dispositivo IOT mais básico e simples possivel e que tem o melhor custo e beneficio. Pois com ele você vai poder implementar praticamente todos os elementos necessários referente a automação e com um baixo custo.
-> ***
+
 
 - ## Zemismart
 
@@ -89,7 +85,7 @@ Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessi
 > * Ligar ou desligar a partir de horários agendados.
 > 
 > OBS: Diria que esse é o dispositivo IOT mais básico e simples possivel e que tem o melhor custo e beneficio. Pois com ele você vai poder implementar praticamente todos os elementos necessários referente a automação e com um baixo custo.
-> ***
+
 
 # Crescimento
 
