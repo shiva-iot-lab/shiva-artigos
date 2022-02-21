@@ -3,6 +3,43 @@
 Objetivo: Dar uma introdução ao leitor sobre o que é IOT, o tamanho do mercado, pra que server. 
 Explicar de forma pratica como implementar um projeto de jardim inteligente por exemplo.
 
+## O que são?
+
+A Internet das Coisas (IoT – Internet of Things) é conhecida pelo acrónimo IoT (do inglês Internet of Things), tendo sido definida pela Internet Society como “a extensão da conectividade de rede e capacidade de computação para objetos, dispositivos, sensores e outros artefactos que normalmente não são considerados computadores”.
+
+https://welectric.pt/2018/03/09/o-que-e-a-internet-das-coisas-iot-internet-of-things/
+
+
+### Dispositivos IOTs
+
+Provavelmente ao desenvolver um projeto com IOT, você escolherá um componente já pronto de fábrica. Serão rasas as vezes que você sentirá a necessidade de criar o seu próprio dispositivo. 
+
+Apesar de ser completamente possivel você construir seu próprio dispositivo IOT (utilizando alguma placa similar ao NODE MCU por exemplo), esse assunto não será aprofundado nesse artigo, porem pretendo falar sobre o assunto em artigos futuros.
+
+Segue alguns exemplos de dispositivos que provavelmente você sentitá a necessidade de implementar no seu projeto, assim como uma breve descrição
+
+### Lista de Dispositivos IOTs
+
+
+- Smart Fechadura
+
+![Smart Fechadura](img/smart-fechadura.jpeg?raw=true "Smart Fechadura")
+
+
+- Smart Interruptor
+
+
+- Smart Lampada
+
+
+- Smart Rele
+
+
+- Zemismart
+
+
+
+
 ## Crescimento
 
 O mercado global de Internet das Coisas (IoT) terá a receita US$ 1,1 trilhão até 2024, com grande parte do crescimento vindo de wearables (dispositivos vestíveis), diz a GlobalData, empresa líder de dados e análise.
@@ -18,27 +55,6 @@ Um estudo da CI&T e da Opinion Box, realizado com 1241 executivos brasileiros, a
 
 Plano Nacional de IoT
 Apesar da expansão das redes de internet de banda larga e dos dispositivos inteligentes, o ecossistema da internet das coisas (IoT) no Brasil ainda enfrenta alguns desafios. Segundo os especialistas da área, falta mais estímulo, mais monitoramento, mais inovação e menos regulamentação para o mercado de IoT avançar no país. Por isso, está em vigor desde junho de 2019 o Plano Nacional de Internet das Coisas (Decreto n°9854), que visa fomentar essa tecnologia no Brasil e melhorar a qualidade de vida e aumentar a eficiência na prestação de serviços.
-
-## O que são?
-
-A Internet das Coisas (IoT – Internet of Things) é conhecida pelo acrónimo IoT (do inglês Internet of Things), tendo sido definida pela Internet Society como “a extensão da conectividade de rede e capacidade de computação para objetos, dispositivos, sensores e outros artefactos que normalmente não são considerados computadores”.
-
-https://welectric.pt/2018/03/09/o-que-e-a-internet-das-coisas-iot-internet-of-things/
-
-## Dispositivos
-
-- Tomadas inteligentes
-
-
-- Interrupitores inteligentes
-
-
-- Sensores de movimentos
-
-
-- Sensores de presença
-
-
 
 ## Experiência
 
