@@ -85,11 +85,11 @@ O mercado global de Internet das Coisas (IoT) terá a receita de US$ 1,1 trilhã
 
 # Links Úteis
 
-https://www.globaldata.com/global-iot-market-will-surpass-1-trillion-mark-2024-says-globaldata/
-https://www.connectdata.net/post/o-que-falta-para-impulsionar-o-mercado-de-iot-no-brasil
-https://welectric.pt/2018/03/09/o-que-e-a-internet-das-coisas-iot-internet-of-things/
-https://youtu.be/uEsKZGOxNKw
-https://www.youtube.com/watch?v=R26QhFQYzcw&ab_channel=Felps
-https://www.youtube.com/watch?v=6XZzvliTNqo&ab_channel=MrZoreta
-https://www.nodemcu.com/
-https://nodemcu.readthedocs.io/en/release/
+* https://www.globaldata.com/global-iot-market-will-surpass-1-trillion-mark-2024-says-globaldata/
+* https://www.connectdata.net/post/o-que-falta-para-impulsionar-o-mercado-de-iot-no-brasil
+* https://welectric.pt/2018/03/09/o-que-e-a-internet-das-coisas-iot-internet-of-things/
+* https://youtu.be/uEsKZGOxNKw
+* https://www.youtube.com/watch?v=R26QhFQYzcw&ab_channel=Felps
+* https://www.youtube.com/watch?v=6XZzvliTNqo&ab_channel=MrZoreta
+* https://www.nodemcu.com/
+* https://nodemcu.readthedocs.io/en/release/
